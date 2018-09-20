@@ -1,0 +1,7 @@
+name = "NestedArrays"
+uuid = "267ed6b2-b712-11e8-028a-dbc9c370513a"
+authors = ["Mihir Paradkar <mkp65@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ElasticArrays = "fdbdab4c-e67f-52f5-8c3f-e7b388dad3d4"
